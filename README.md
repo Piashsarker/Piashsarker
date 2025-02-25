@@ -1,6 +1,6 @@
-✅ 7+ Years professional experience in Mobile platforms (Android, iOS & Cross Platform).
+✅ 9+ Years professional experience in Mobile platforms (Android, iOS & Cross Platform).
 
-✅ 4+ Years professional experience leading, managing, mentoring small and large mobile teams. 
+✅ 6+ Years professional experience leading, managing, mentoring small and large mobile teams. 
 
 ✅ Strong hand-coding ability with Kotlin, Java, JavaScript, TypeScript, Swift programming languages.
 
